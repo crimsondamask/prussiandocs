@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Nano/interface",
+  "id": "Nano/interface",
+  "title": "Nano User Interface",
+  "description": "Nano Map",
+  "source": "@site/docs/Nano/interface.md",
+  "sourceDirName": "Nano",
+  "slug": "/Nano/interface",
+  "permalink": "/docs/Nano/interface",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nano User Interface",
+    "sidebar_label": "The User Interface"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  }
+}
