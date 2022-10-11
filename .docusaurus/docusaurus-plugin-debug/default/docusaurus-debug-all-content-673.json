@@ -18,10 +18,38 @@
           "contentPathLocalized": "/Users/crimsondamask/Desktop/prussiandocs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "HMI/interface",
+              "id": "HMI/interface",
+              "title": "HMI",
+              "description": "The Human Machine Interface",
+              "source": "@site/docs/HMI/interface.md",
+              "sourceDirName": "HMI",
+              "slug": "/HMI/interface",
+              "permalink": "/docs/HMI/interface",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "HMI",
+                "sidebar_label": "HMI",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Nano User Interface",
+                "permalink": "/docs/Nano/interface"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Getting Started",
-              "description": "This is a quick guides that shows you how to use PrussianStudio.",
+              "description": "This is a quick guide that shows you how to use PrussianStudio.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -35,8 +63,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "The User Interface",
-                "permalink": "/docs/Nano/interface"
+                "title": "HMI",
+                "permalink": "/docs/HMI/interface"
               }
             },
             {
@@ -53,12 +81,12 @@
               "version": "current",
               "frontMatter": {
                 "title": "Nano User Interface",
-                "sidebar_label": "The User Interface"
+                "sidebar_label": "Nano User Interface"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/docs/intro"
+                "title": "HMI",
+                "permalink": "/docs/HMI/interface"
               }
             }
           ],
@@ -71,6 +99,19 @@
               },
               {
                 "type": "category",
+                "label": "Human Machine Interface",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "HMI/interface",
+                    "label": "HMI"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "Nano",
                 "collapsible": true,
                 "collapsed": true,
@@ -78,7 +119,7 @@
                   {
                     "type": "doc",
                     "id": "Nano/interface",
-                    "label": "The User Interface"
+                    "label": "Nano User Interface"
                   }
                 ]
               }

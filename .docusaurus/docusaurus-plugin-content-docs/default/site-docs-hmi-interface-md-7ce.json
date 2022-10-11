@@ -1,0 +1,28 @@
+{
+  "unversionedId": "HMI/interface",
+  "id": "HMI/interface",
+  "title": "HMI",
+  "description": "The Human Machine Interface",
+  "source": "@site/docs/HMI/interface.md",
+  "sourceDirName": "HMI",
+  "slug": "/HMI/interface",
+  "permalink": "/docs/HMI/interface",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "HMI",
+    "sidebar_label": "HMI",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Nano User Interface",
+    "permalink": "/docs/Nano/interface"
+  }
+}

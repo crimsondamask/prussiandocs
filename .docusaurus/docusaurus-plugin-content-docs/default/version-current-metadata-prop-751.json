@@ -17,13 +17,27 @@
       },
       {
         "type": "category",
+        "label": "Human Machine Interface",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "HMI",
+            "href": "/docs/HMI/interface",
+            "docId": "HMI/interface"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Nano",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "The User Interface",
+            "label": "Nano User Interface",
             "href": "/docs/Nano/interface",
             "docId": "Nano/interface"
           }
@@ -32,10 +46,16 @@
     ]
   },
   "docs": {
+    "HMI/interface": {
+      "id": "HMI/interface",
+      "title": "HMI",
+      "description": "The Human Machine Interface",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Getting Started",
-      "description": "This is a quick guides that shows you how to use PrussianStudio.",
+      "description": "This is a quick guide that shows you how to use PrussianStudio.",
       "sidebar": "tutorialSidebar"
     },
     "Nano/interface": {

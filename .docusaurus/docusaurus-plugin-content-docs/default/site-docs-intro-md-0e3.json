@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Getting Started",
-  "description": "This is a quick guides that shows you how to use PrussianStudio.",
+  "description": "This is a quick guide that shows you how to use PrussianStudio.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "The User Interface",
-    "permalink": "/docs/Nano/interface"
+    "title": "HMI",
+    "permalink": "/docs/HMI/interface"
   }
 }

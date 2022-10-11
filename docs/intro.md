@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started
 
-This is a quick guides that shows you how to use **PrussianStudio**.
+This is a quick guide that shows you how to use **PrussianStudio**.
 
 ## Requirements
 

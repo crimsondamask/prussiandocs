@@ -12,11 +12,11 @@
   "version": "current",
   "frontMatter": {
     "title": "Nano User Interface",
-    "sidebar_label": "The User Interface"
+    "sidebar_label": "Nano User Interface"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/docs/intro"
+    "title": "HMI",
+    "permalink": "/docs/HMI/interface"
   }
 }

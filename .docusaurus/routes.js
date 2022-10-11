@@ -99,8 +99,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f76'),
+    component: ComponentCreator('/docs', '87e'),
     routes: [
+      {
+        path: '/docs/HMI/interface',
+        component: ComponentCreator('/docs/HMI/interface', '7f0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
