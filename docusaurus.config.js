@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'PrussianStudio',
-  tagline: 'A Lightweight And Modern Data Acquisition Software',
+  tagline: 'A Lightweight And Modern SCADA Software',
   url: 'https://github.com/crimsondamask',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -64,7 +64,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {href: 'http://localhost:3000/hmi/', label: 'HMI', position: 'left'},
           {
@@ -92,6 +92,10 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/crimsondamask13',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/abdelkader-madoui-081420135/',
               },
             ],
           },
