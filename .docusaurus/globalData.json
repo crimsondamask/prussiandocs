@@ -24,6 +24,11 @@
               "id": "Nano/interface",
               "path": "/docs/Nano/interface",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Server/server",
+              "path": "/docs/Server/",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

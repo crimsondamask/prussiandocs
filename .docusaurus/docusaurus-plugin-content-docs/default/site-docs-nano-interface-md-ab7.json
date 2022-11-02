@@ -18,5 +18,9 @@
   "previous": {
     "title": "HMI",
     "permalink": "/docs/HMI/interface"
+  },
+  "next": {
+    "title": "Server",
+    "permalink": "/docs/Server/"
   }
 }

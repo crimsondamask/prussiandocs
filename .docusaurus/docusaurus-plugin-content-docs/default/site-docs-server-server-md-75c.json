@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Server/server",
+  "id": "Server/server",
+  "title": "PrussianStudio Server",
+  "description": "The server is the piece of software that connects the HMI clients to Nano.",
+  "source": "@site/docs/Server/server.md",
+  "sourceDirName": "Server",
+  "slug": "/Server/",
+  "permalink": "/docs/Server/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "PrussianStudio Server",
+    "sidebar_label": "Server"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nano User Interface",
+    "permalink": "/docs/Nano/interface"
+  }
+}

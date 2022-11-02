@@ -42,6 +42,12 @@
             "docId": "Nano/interface"
           }
         ]
+      },
+      {
+        "type": "link",
+        "label": "Server",
+        "href": "/docs/Server/",
+        "docId": "Server/server"
       }
     ]
   },
@@ -62,6 +68,12 @@
       "id": "Nano/interface",
       "title": "Nano User Interface",
       "description": "Nano Map",
+      "sidebar": "tutorialSidebar"
+    },
+    "Server/server": {
+      "id": "Server/server",
+      "title": "PrussianStudio Server",
+      "description": "The server is the piece of software that connects the HMI clients to Nano.",
       "sidebar": "tutorialSidebar"
     }
   }

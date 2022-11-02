@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '87e'),
+    component: ComponentCreator('/docs', 'c4f'),
     routes: [
       {
         path: '/docs/HMI/interface',
@@ -116,6 +116,12 @@ export default [
       {
         path: '/docs/Nano/interface',
         component: ComponentCreator('/docs/Nano/interface', 'f95'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Server/',
+        component: ComponentCreator('/docs/Server/', '4df'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

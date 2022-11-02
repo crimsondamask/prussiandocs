@@ -52,11 +52,6 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "http://localhost:3000/hmi/",
-          "label": "HMI",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/crimsondamask/",
           "label": "GitHub",
           "position": "right"
