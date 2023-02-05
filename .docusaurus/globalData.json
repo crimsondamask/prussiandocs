@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Dashboards/interface",
+              "path": "/docs/Dashboards/interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "HMI/interface",
               "path": "/docs/HMI/interface",
               "sidebar": "tutorialSidebar"

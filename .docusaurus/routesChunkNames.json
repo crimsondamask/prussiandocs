@@ -186,12 +186,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-c4f": {
+  "/docs-82c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsd-6-b-c90"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/Dashboards/interface-e57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dashboards-interface-1-a-9-b3e"
   },
   "/docs/HMI/interface-7f0": {
     "__comp": "__comp---theme-doc-item-178-a40",

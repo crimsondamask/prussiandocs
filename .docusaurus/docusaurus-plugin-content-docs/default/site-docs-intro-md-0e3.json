@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "HMI",
-    "permalink": "/docs/HMI/interface"
+    "title": "Dashboards",
+    "permalink": "/docs/Dashboards/interface"
   }
 }

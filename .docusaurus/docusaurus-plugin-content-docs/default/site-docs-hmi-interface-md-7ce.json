@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/docs/intro"
+    "title": "Dashboards",
+    "permalink": "/docs/Dashboards/interface"
   },
   "next": {
     "title": "Nano User Interface",

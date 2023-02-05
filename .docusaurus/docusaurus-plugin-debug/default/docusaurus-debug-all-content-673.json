@@ -18,6 +18,32 @@
           "contentPathLocalized": "/Users/crimsondamask/Desktop/prussiandocs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "Dashboards/interface",
+              "id": "Dashboards/interface",
+              "title": "Dashboards and Trends",
+              "description": "Visualizing Data",
+              "source": "@site/docs/Dashboards/interface.md",
+              "sourceDirName": "Dashboards",
+              "slug": "/Dashboards/interface",
+              "permalink": "/docs/Dashboards/interface",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Dashboards and Trends",
+                "sidebar_label": "Dashboards"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "HMI",
+                "permalink": "/docs/HMI/interface"
+              }
+            },
+            {
               "unversionedId": "HMI/interface",
               "id": "HMI/interface",
               "title": "HMI",
@@ -37,8 +63,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/docs/intro"
+                "title": "Dashboards",
+                "permalink": "/docs/Dashboards/interface"
               },
               "next": {
                 "title": "Nano User Interface",
@@ -63,8 +89,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "HMI",
-                "permalink": "/docs/HMI/interface"
+                "title": "Dashboards",
+                "permalink": "/docs/Dashboards/interface"
               }
             },
             {
@@ -122,6 +148,19 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Dashboards",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Dashboards/interface",
+                    "label": "Dashboards"
+                  }
+                ]
               },
               {
                 "type": "category",

@@ -17,6 +17,20 @@
       },
       {
         "type": "category",
+        "label": "Dashboards",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Dashboards",
+            "href": "/docs/Dashboards/interface",
+            "docId": "Dashboards/interface"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Human Machine Interface",
         "collapsible": true,
         "collapsed": true,
@@ -52,6 +66,12 @@
     ]
   },
   "docs": {
+    "Dashboards/interface": {
+      "id": "Dashboards/interface",
+      "title": "Dashboards and Trends",
+      "description": "Visualizing Data",
+      "sidebar": "tutorialSidebar"
+    },
     "HMI/interface": {
       "id": "HMI/interface",
       "title": "HMI",

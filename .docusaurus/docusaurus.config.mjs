@@ -94,7 +94,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 PrussianStudio, by Abdelkader Madoui."
+      "copyright": "Copyright © 2023 PrussianStudio, by Abdelkader Madoui."
     },
     "prism": {
       "theme": {

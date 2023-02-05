@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Dashboards/interface",
+  "id": "Dashboards/interface",
+  "title": "Dashboards and Trends",
+  "description": "Visualizing Data",
+  "source": "@site/docs/Dashboards/interface.md",
+  "sourceDirName": "Dashboards",
+  "slug": "/Dashboards/interface",
+  "permalink": "/docs/Dashboards/interface",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dashboards and Trends",
+    "sidebar_label": "Dashboards"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "HMI",
+    "permalink": "/docs/HMI/interface"
+  }
+}
